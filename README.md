@@ -1,6 +1,7 @@
 # Linux-IPC-Shared-memory
-Ex06-Linux IPC-Shared-memory
-
+# Ex06-Linux IPC-Shared-memory
+## Name: Kamalesh
+## Reg No: 212223040083
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
